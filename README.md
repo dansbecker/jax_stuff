@@ -1,0 +1,1 @@
+This repo contains messy and undocumented experiments as I learn JAX and graph neural nets.
